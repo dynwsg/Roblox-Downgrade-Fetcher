@@ -1,0 +1,6 @@
+﻿  Authority Roblox.cpp
+C:\Users\ihate\source\repos\Authority Roblox\Authority Roblox\Authority Roblox.cpp(24,9): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+C:\Users\ihate\source\repos\Authority Roblox\Authority Roblox\Authority Roblox.cpp(24,9): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+C:\Users\ihate\source\repos\Authority Roblox\Authority Roblox\Authority Roblox.cpp(25,74): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+C:\Users\ihate\source\repos\Authority Roblox\Authority Roblox\Authority Roblox.cpp(25,74): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+  Authority Roblox.vcxproj -> C:\Users\ihate\source\repos\Authority Roblox\x64\Debug\Authority Roblox.exe
